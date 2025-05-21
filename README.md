@@ -1,6 +1,6 @@
 # 🔐 AES Encrypt / Decrypt Web Tool
 
-Một công cụ web đơn giản để **mã hóa (encrypt)** và **giải mã (decrypt)** văn bản bằng thuật toán **AES-GCM** sử dụng Web Crypto API, không cần thư viện ngoài như CryptoJS.
+
 
 ## 🚀 Tính năng
 
